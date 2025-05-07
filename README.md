@@ -48,8 +48,8 @@ Here’s how the Inventory Management UI looks:
 
 ## 📷 Project Screenshot
 
-![Inventory Management UI](https://drive.google.com/file/d/1h1N3qqo83z0esUAvyqgoptGhrI3yAa9u/view?usp=sharing)
-
+<img width="947" alt="Inventory Management UI"
+src="https://drive.google.com/file/d/1h1N3qqo83z0esUAvyqgoptGhrI3yAa9u/view?usp=sharing"/>
 
 > **Note**: Replace `assets/output.png` with your actual image file path in your project.  
 > Save your screenshot inside a folder named `assets` in your project root, and name it `output.png` (or adjust the path accordingly).
