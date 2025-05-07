@@ -1,3 +1,6 @@
+[![Screenshot-2025-05-07-181241.png](https://i.postimg.cc/d1pktsN6/Screenshot-2025-05-07-181241.png)](https://postimg.cc/0MG2VssK)
+
+
 # 📦 Inventory Management System
 
 An efficient, scalable, and user-friendly Inventory Management System built using **ReactJS**, **C# ASP.NET Core Web API**, **Entity Framework Core**, and **SQL Server**.
