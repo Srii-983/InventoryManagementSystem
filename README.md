@@ -48,7 +48,7 @@ Here’s how the Inventory Management UI looks:
 
 ## 📷 Project Screenshot
 
-![Inventory Management UI]([https://i.imgur.com/exampleImage.png](https://drive.google.com/file/d/1h1N3qqo83z0esUAvyqgoptGhrI3yAa9u/view?usp=sharing))
+![Inventory Management UI](https://drive.google.com/file/d/1h1N3qqo83z0esUAvyqgoptGhrI3yAa9u/view?usp=sharing)
 
 
 > **Note**: Replace `assets/output.png` with your actual image file path in your project.  
